@@ -27,7 +27,7 @@ I started coding and have been building programs since 3 years ago but I haven't
 
 💬 How to reach me: hmanh1601@gmail.com
 
-😄 Fun fact:
+Fun fact:
   - I love animals 
   - My hobbies : reading, photography and matcha 🌱
   - My favourite book: The Midnight Library
