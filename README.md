@@ -31,8 +31,7 @@ Fun fact:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=MiaHa1&icon=0&color=10)](https://visitcount.itsvg.in)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMiaHa1%2F&countColor=%23263759)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MiaHa1&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true)<br/>
