@@ -28,13 +28,11 @@ Fun fact:
   - My hobbies : reading, photography and matcha 🌱
   - My favourite book: The Midnight Library
 
+
+![Visitors count ](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMiaHa1%2F&countColor=%23263759)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMiaHa1%2F&countColor=%23263759)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiaHa1&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiaHa1&theme=rose_pine&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaHa1&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
