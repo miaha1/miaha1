@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a CS major currently based in Cambridge Massachusetts
-
-I like to build whatever I can imagine ✨
-
-I'm learning about AWS systems so I'm currently working on a AI Call Assistant Project using AWS, Langchain and Docker!
-
-Since I love to travel, I built a Machine Learning project to do predictions on Airbnb Prices.
-
-I started coding and have been building programs since 3 years ago but I haven't been updating my github a lot so I want to start doing more documentation of my projects's progresses here!
-
-💬 How to reach me: hmanh1601@gmail.com
-
 # 💫 About Me:
 I'm a CS major currently based in Cambridge Massachusetts<br><br>I like to build whatever I can imagine ✨<br><br>I'm learning about AWS systems so I'm currently working on a AI Call Assistant Project using AWS, Langchain and Docker!<br><br>Since I love to travel, I built a Machine Learning project to do predictions on Airbnb Prices.<br><br>I started coding and have been building programs since 3 years ago but I haven't been updating my github a lot so I want to start doing more documentation of my projects's progresses here!<br><br>💬 How to reach me: hmanh1601@gmail.com<br><br>Fun fact:<br><br>I love animals<br>My hobbies : reading, photography and matcha 🌱<br>My favourite book: The Midnight Library
 
